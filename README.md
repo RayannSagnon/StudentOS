@@ -1,28 +1,35 @@
 # StudentOS
 
-StudentOS is a modern Android student productivity app built with Jetpack Compose and Material 3. It helps students manage courses, assignments, study sessions, and academic progress in one clean dashboard.
+[![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
+[![Kotlin](https://img.shields.io/badge/Kotlin-2.0-blue.svg)](https://kotlinlang.org)
+[![Compose](https://img.shields.io/badge/Jetpack-Compose-7F5AF0.svg)](https://developer.android.com/jetpack/compose)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Build](https://img.shields.io/badge/CI-GitHub%20Actions-success.svg)](.github/workflows/android-ci.yml)
 
-## ✨ Features
+A modern Android student productivity app designed to help students keep track of courses, assignments, focus sessions, and academic progress in one clean interface.
 
-- Dashboard with weekly progress and study streak
-- Course tracking and academic overview
-- Assignment management with active/completed views
-- Study session flow for focused work
-- Profile and settings screens
-- Firebase and local persistence support
+## Why StudentOS
 
-## 📸 Screenshots
+StudentOS combines a polished dashboard, task organization, and study-session support to give students a simple command center for their academic routine.
 
-Add your app screenshots in the folder below:
+### Highlights
 
-- screenshots/01-dashboard.png
-- screenshots/02-courses.png
-- screenshots/03-assignments.png
-- screenshots/04-profile.png
+- Clean Material 3 interface
+- Smart dashboard with weekly progress and study streak
+- Course and assignment tracking
+- Focus session flow for study blocks
+- Local persistence with Firebase-ready integration
 
-> Replace the placeholder files in the screenshots/ folder with your final images when ready.
+## Screenshots
 
-## 🛠️ Tech Stack
+Use these preview placeholders for your GitHub page, then replace them with your real captures when ready.
+
+- [Dashboard preview](screenshots/01-dashboard.svg)
+- [Courses preview](screenshots/02-courses.svg)
+- [Assignments preview](screenshots/03-assignments.svg)
+- [Profile preview](screenshots/04-profile.svg)
+
+## Tech Stack
 
 - Kotlin
 - Jetpack Compose
@@ -32,19 +39,19 @@ Add your app screenshots in the folder below:
 - Firebase Auth / Firestore
 - ViewModel + StateFlow
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
 - Android Studio
-- JDK 11
+- JDK 11 or newer
 - Android SDK with API 35
 
 ### Run the app
 
 1. Open the project in Android Studio.
 2. Sync Gradle.
-3. Select an emulator or connected device.
+3. Launch an emulator or connect a device.
 4. Run the app.
 
 ### Build
@@ -53,21 +60,28 @@ Add your app screenshots in the folder below:
 ./gradlew assembleDebug
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 app/
   src/main/java/com/studentos/app/
-    ui/           # Screens and UI components
-    navigation/   # Navigation routes
-    viewmodel/    # ViewModels
+    ui/           # Screens and Compose UI
+    navigation/   # Route definitions
+    viewmodel/    # Screen state and logic
     data/         # Repositories, Room, Firebase integration
 ```
 
-## 🤝 Contributing
+## Roadmap
+
+- Improve analytics and reporting
+- Add reminders and notifications
+- Expand study-session insights
+- Polish the onboarding experience
+
+## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
-## 📄 License
+## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.

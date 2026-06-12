@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)" rx="36"/>
+  <rect x="80" y="80" width="1040" height="640" rx="32" fill="#111827" stroke="#334155"/>
+  <rect x="120" y="130" width="280" height="18" rx="9" fill="#7C3AED" opacity="0.9"/>
+  <rect x="120" y="175" width="360" height="12" rx="6" fill="#CBD5E1" opacity="0.7"/>
+  <rect x="120" y="240" width="320" height="160" rx="28" fill="#1F2937" stroke="#475569"/>
+  <rect x="470" y="240" width="320" height="160" rx="28" fill="#111827" stroke="#475569"/>
+  <rect x="820" y="240" width="260" height="160" rx="28" fill="#111827" stroke="#475569"/>
+  <rect x="120" y="430" width="960" height="220" rx="28" fill="#111827" stroke="#475569"/>
+  <text x="150" y="310" font-size="28" font-family="Arial, Helvetica, sans-serif" fill="#F8FAFC">Dashboard Preview</text>
+  <text x="150" y="350" font-size="17" font-family="Arial, Helvetica, sans-serif" fill="#CBD5E1">StudentOS dashboard placeholder</text>
+  <text x="150" y="540" font-size="24" font-family="Arial, Helvetica, sans-serif" fill="#F8FAFC">Replace this image with your real screenshot</text>
+</svg>
