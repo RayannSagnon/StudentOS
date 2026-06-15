@@ -1,5 +1,9 @@
 # StudentOS
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RayannSagnon/StudentOS/master/assets/banner.svg" alt="StudentOS banner" width="100%" />
+</p>
+
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0-blue.svg)](https://kotlinlang.org)
 [![Compose](https://img.shields.io/badge/Jetpack-Compose-7F5AF0.svg)](https://developer.android.com/jetpack/compose)
