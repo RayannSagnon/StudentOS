@@ -1,8 +1,7 @@
 # StudentOS
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RayannSagnon/StudentOS/master/assets/banner.svg" alt="StudentOS banner" width="100%" />
-</p>
+<img width="1920" height="1080" alt="Mobile App presentation" src="https://github.com/user-attachments/assets/77c2c270-5468-4ebc-aa0f-e0c0c352eb98" />
+
 
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0-blue.svg)](https://kotlinlang.org)
