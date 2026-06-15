@@ -21,6 +21,7 @@ StudentOS combines a polished dashboard, task organization, and study-session su
 - Local persistence with Firebase-ready integration
 
 ## Screenshots
+<img width="606" height="1352" alt="image" src="https://github.com/user-attachments/assets/fc8e396d-61da-4c6d-a6df-c488189b44b7" />
 
 
 
