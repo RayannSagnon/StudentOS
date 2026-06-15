@@ -1,6 +1,6 @@
 # StudentOS
 
-<img width="1920" height="797" alt="Mobile App presentation" src="https://github.com/user-attachments/assets/07a559f6-3fe0-4591-8a23-9a128c0bfa7f" />
+<img width="1920" height="797" alt="Mobile App presentation" src="https://github.com/user-attachments/assets/07a559f6-3fe0-4591-8a23-9a128c0bfa7f" /></br>
 
 
 
