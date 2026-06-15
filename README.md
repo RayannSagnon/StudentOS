@@ -22,6 +22,12 @@ StudentOS combines a polished dashboard, task organization, and study-session su
 
 ## Screenshots
 <img width="606" height="1352" alt="image" src="https://github.com/user-attachments/assets/fc8e396d-61da-4c6d-a6df-c488189b44b7" />
+<img width="602" height="1356" alt="image" src="https://github.com/user-attachments/assets/0cde44a8-5b91-4e95-afc3-8db512fe84f4" />
+<img width="604" height="1354" alt="image" src="https://github.com/user-attachments/assets/97ff805e-d16f-4572-9bad-b7c5aa870aea" />
+<img width="606" height="1350" alt="image" src="https://github.com/user-attachments/assets/6f244b34-9039-479f-acbe-caa2e1b47b6a" />
+
+
+
 
 
 
