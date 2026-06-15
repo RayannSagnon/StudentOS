@@ -29,7 +29,7 @@ StudentOS combines a polished dashboard, task organization, and study-session su
   <img src="https://github.com/user-attachments/assets/6f244b34-9039-479f-acbe-caa2e1b47b6a" width="180" alt="Profile" />
 </p>
 
-A quick look at the StudentOS experience: dashboard, courses, assignments, and profile screens in a compact preview layout.
+A quick look at the StudentOS experience: dashboard, courses, assignments, and profile screens.
 
 ## Tech Stack
 
