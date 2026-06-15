@@ -21,16 +21,15 @@ StudentOS combines a polished dashboard, task organization, and study-session su
 - Local persistence with Firebase-ready integration
 
 ## Screenshots
-<img width="606" height="1352" alt="image" src="https://github.com/user-attachments/assets/fc8e396d-61da-4c6d-a6df-c488189b44b7" />
-<img width="602" height="1356" alt="image" src="https://github.com/user-attachments/assets/0cde44a8-5b91-4e95-afc3-8db512fe84f4" />
-<img width="604" height="1354" alt="image" src="https://github.com/user-attachments/assets/97ff805e-d16f-4572-9bad-b7c5aa870aea" />
-<img width="606" height="1350" alt="image" src="https://github.com/user-attachments/assets/6f244b34-9039-479f-acbe-caa2e1b47b6a" />
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fc8e396d-61da-4c6d-a6df-c488189b44b7" width="180" alt="Dashboard" />
+  <img src="https://github.com/user-attachments/assets/0cde44a8-5b91-4e95-afc3-8db512fe84f4" width="180" alt="Courses" />
+  <img src="https://github.com/user-attachments/assets/97ff805e-d16f-4572-9bad-b7c5aa870aea" width="180" alt="Assignments" />
+  <img src="https://github.com/user-attachments/assets/6f244b34-9039-479f-acbe-caa2e1b47b6a" width="180" alt="Profile" />
+</p>
 
-
-
-
-
+These screenshots are displayed in a compact layout for a cleaner GitHub preview.
 
 ## Tech Stack
 
